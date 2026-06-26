@@ -3,6 +3,7 @@ locale = 'en-us'
 title = 'My New Hugo Project'
 [params]
     maxAllowedWidth = "max-w-6xl"
+    logo = "assets/my_profile_pic.jpeg"
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
