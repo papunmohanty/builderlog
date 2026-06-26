@@ -20,5 +20,6 @@ node_modules/
 
 # Firebase secrets and local config
 config/_default/params.local.toml
+config/development/params.toml
 config/production/params.toml
 firebase-config.json

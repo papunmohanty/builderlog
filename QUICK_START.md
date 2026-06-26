@@ -11,15 +11,19 @@ cd YOUR_REPO
 ### 2️⃣ Set Up Local Firebase Config
 ```bash
 # Copy the template
-cp config/_default/params.local.toml.example config/_default/params.local.toml
+cp config/development/params.toml.example config/development/params.toml
 
 # Edit and add your Firebase credentials
-nano config/_default/params.local.toml
+nano config/development/params.toml
 ```
 
 ### 3️⃣ Run Hugo Locally
 ```bash
+# Hugo automatically uses development environment
 hugo server
+
+# Or explicitly specify:
+hugo server --environment development
 ```
 
 ✅ **Done!** Your local site should now work with Firebase.
