@@ -43,7 +43,7 @@ cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
-homepageImage = "grid-bg-image.jpeg"
+homepageImage = "SVG-background-animated.gif"
 
 [article]
 showDate = true
