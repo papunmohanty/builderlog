@@ -3,3 +3,6 @@ locale = 'en-us'
 title = 'My New Hugo Project'
 [params]
     maxAllowedWidth = "max-w-6xl"
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
