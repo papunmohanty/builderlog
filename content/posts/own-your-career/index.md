@@ -1,7 +1,7 @@
 +++
 date = '2026-02-02T14:20:18+05:30'
 draft = false
-title = '🚀 Own Your Career'
+title = '✊🏻 Own Your Career'
 imfeatureImageage = './featured.png'
 showHero = true
 heroStyle = 'big'
