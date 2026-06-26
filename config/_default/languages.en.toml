@@ -1,0 +1,20 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Home"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+  [params.author]
+  links = [ ]
+
+["params.author"]
+name = "Papun Mohanty"
+image = "my_profile_pic.jpeg"
+headline = "My Experience, Learnings, Philosophy, and Wisdom"
+email = "reachtopmohanty@gmail.com"

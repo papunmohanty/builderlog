@@ -1,0 +1,19 @@
+# Hugo default output directory
+/public/
+/resources/_gen/
+
+# Local development cache and server lock files
+/.hugo_build.lock
+/assets/jsconfig.json
+
+# Build and template caches
+.sass-cache/
+capybara-*.html
+.DS_Store
+
+# Node modules (if you install Tailwind or other npm packages locally)
+node_modules/
+
+# Local environment configuration overrides
+.env
+.env.*
