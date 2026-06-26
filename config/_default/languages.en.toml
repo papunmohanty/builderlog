@@ -10,15 +10,13 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 
-  [params.author]
-  links = [
+[params.author]
+links = [
     { email = "reachtopmohanty@gmail.com" },
     { github = "https://github.com/papunmohanty" },
     { linkedin = "https://www.linkedin.com/in/reachtopmohanty" },
     { whatsapp = "https://wa.me/919632082251" }
   ]
-
-["params.author"]
 name = "Papun Mohanty"
 image = "my_profile_pic.jpeg"
 headline = "My Experience, Learnings, Philosophy, and Wisdom"
