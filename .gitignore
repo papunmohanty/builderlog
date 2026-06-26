@@ -17,3 +17,8 @@ node_modules/
 # Local environment configuration overrides
 .env
 .env.*
+
+# Firebase secrets and local config
+config/_default/params.local.toml
+config/production/params.toml
+firebase-config.json

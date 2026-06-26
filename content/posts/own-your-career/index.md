@@ -10,6 +10,8 @@ tags = [
     "roadmap",
     "job",
 ]
+showViews = true
+showLikes = true
 # showTableOfContents = true
 +++
 # ✋🏻 Stop Depending on Company Projects to Build Your Career

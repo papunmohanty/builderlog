@@ -14,7 +14,7 @@ fingerprintAlgorithm = "sha512"
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 seo = { }
-firebase = { }
+# firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
 selineAnalytics = { }
@@ -22,6 +22,16 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+
+# Firebase configuration - actual values in params.local.toml (not committed to git)
+# For production, set these as environment variables or use GitHub Secrets
+[firebase]
+# apiKey = "YOUR_API_KEY"
+# authDomain = "YOUR_AUTH_DOMAIN"
+# projectId = "YOUR_PROJECT_ID"
+# storageBucket = "YOUR_STORAGE_BUCKET"
+# messagingSenderId = "YOUR_MESSAGING_SENDER_ID"
+# appId = "YOUR_APP_ID"
 
 [header]
 layout = "fixed"
