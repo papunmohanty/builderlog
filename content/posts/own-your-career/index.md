@@ -9,7 +9,6 @@ tags = [
     "career",
     "roadmap",
     "job",
-    "solving",
 ]
 # showTableOfContents = true
 +++
