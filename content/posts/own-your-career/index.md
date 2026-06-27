@@ -12,9 +12,16 @@ tags = [
 ]
 showViews = true
 showLikes = true
+audioFile = './Own_your_career_through_software_engineering_evidence.m4a'
 # showTableOfContents = true
 +++
 # ✋🏻 Stop Depending on Company Projects to Build Your Career
+
+{{< audio
+    title="🎧 Listen instead of reading 🎙"
+    src="intro.m4a"
+    caption="30 minute naration"
+>}}
 
 ### 💡 What 12 years in IT taught me about the trap of relying solely on company roadmaps.
 
