@@ -12,7 +12,7 @@ tags = [
 ]
 showViews = true
 showLikes = true
-audioFile = './Own_your_career_through_software_engineering_evidence.m4a'
+audio = 'intro.m4a'
 # showTableOfContents = true
 +++
 # ✋🏻 Stop Depending on Company Projects to Build Your Career
