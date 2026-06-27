@@ -12,7 +12,7 @@ tags = [
 ]
 showViews = true
 showLikes = true
-audio = 'intro.m4a'
+audioFile = './intro.m4a'
 # showTableOfContents = true
 +++
 # ✋🏻 Stop Depending on Company Projects to Build Your Career
