@@ -19,7 +19,7 @@ audioFile = './intro.m4a'
 {{< audio
     title="🎧 Listen instead of reading 🎙"
     src="intro.m4a"
-    caption="approx 42 minute naration"
+    caption="approx 42 minute narration"
 >}}
 
 > 💭 Have you ever joined a product company expecting to build the next great software platform...

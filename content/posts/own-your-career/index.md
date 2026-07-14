@@ -20,7 +20,7 @@ audioFile = './intro.m4a'
 {{< audio
     title="🎧 Listen instead of reading 🎙"
     src="intro.m4a"
-    caption="30 minute naration"
+    caption="approx 29 minute narration"
 >}}
 
 ### 💡 What 12 years in IT taught me about the trap of relying solely on company roadmaps.
