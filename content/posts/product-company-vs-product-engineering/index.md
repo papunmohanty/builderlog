@@ -11,10 +11,16 @@ tags = [
 ]
 showViews = true
 showLikes = true
-# audioFile = './intro.m4a'
+audioFile = './intro.m4a'
 # showTableOfContents = true
 +++
 # The Hidden Career Trap Many Software Engineers Don't See
+
+{{< audio
+    title="🎧 Listen instead of reading 🎙"
+    src="intro.m4a"
+    caption="approx 42 minute naration"
+>}}
 
 > 💭 Have you ever joined a product company expecting to build the next great software platform...
 >
